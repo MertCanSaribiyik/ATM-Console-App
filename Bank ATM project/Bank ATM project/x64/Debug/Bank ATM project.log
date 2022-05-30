@@ -1,0 +1,3 @@
+﻿  Bank ATM project.cpp
+C:\Users\mertc\OneDrive\Belgeler\Programlama Dilleri\C++\C++ Projects\Bank ATM project\Bank ATM project\Bank ATM project.cpp(347,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Bank ATM project.vcxproj -> C:\Users\mertc\OneDrive\Belgeler\Programlama Dilleri\C++\C++ Projects\Bank ATM project\x64\Debug\Bank ATM project.exe
