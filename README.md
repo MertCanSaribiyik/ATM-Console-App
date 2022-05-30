@@ -1,2 +1,2 @@
 # ATM Console App
- This algorithm is a bank application who has functions such as money withdrawal, put money into account; check remaining, invoice, crypto money and istanbulkart transactions and donate. It has multi user support.
+ This is a ATM application  on the console. It has support for depositing, withdrawing, balance inquiry, selling and buying cryptocurrency, istanbulkart operations, donating to charities, multiple user support.
